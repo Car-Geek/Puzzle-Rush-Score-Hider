@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Puzzle Rush Score Hider",
+  "version": "1.0.1",
+  "description": "Hide your puzzle rush score when doing puzzle rush to minimize distraction and avoid getting nervous.",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
